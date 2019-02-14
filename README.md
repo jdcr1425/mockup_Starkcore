@@ -11,5 +11,6 @@ Este proyecto fue generado con  [Angular CLI](https://github.com/angular/angular
 
 ## Ejecución
 - Clonar repositorio y navegar hacia el.
+- Ejecuta `npm install` para instalar todos los modulos de la aplicación. 
 - Ejecuta `ng serve` para desplegar un servidor de desarrollo. luego ir a `http://localhost:4200/`.
 
