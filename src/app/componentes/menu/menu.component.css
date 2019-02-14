@@ -1,0 +1,14 @@
+
+li:hover, li:focus{
+  background-color:#193948 ;
+  color: white;
+  transition: all 0.3s;
+}
+
+.nav-item > .nav-link:hover , nav-link:focus {
+  color:white;
+  transition: all 0.3s;
+}
+
+
+
